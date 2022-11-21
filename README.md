@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
-<div align = "center"> #공주대 컴퓨터 공학과 22학번
+<div align = "center">
 	<p>정보처리 기능사 자격증 취득중 (현 필기 합격)</p>
 	<p>OCJP, SQLD, 네트워크 관리사, 정보처리 기사 자격증 준비중</p>
 	<p>前 LeptonSoft Programmer 정규직</p>
