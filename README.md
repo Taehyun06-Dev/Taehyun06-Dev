@@ -25,7 +25,7 @@
 	<p>OCJP, SQLD, 네트워크 관리사, 정보처리 기사 자격증 준비중</p>
 	<p>前 LeptonSoft Programmer 정규직</p>
 	<img src="https://img.shields.io/badge/Instagram-181717?style=flat&logo=Instagram&logoColor=pink" />
-	<h4>@tae_o31</h4>
+	<p>@tae_o31</p>
 </div>
 <br>
 <div align=center>
