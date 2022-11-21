@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=태현이의%개발세상)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Taehyun's%Workspace)
 
 - 공주대 컴퓨터 공학과 22학번
 - JAVA 전문, javascript, c, linux, python ....
