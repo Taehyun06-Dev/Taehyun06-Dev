@@ -24,12 +24,13 @@
 </div>
 <br>
 <div align = "center"> #공주대 컴퓨터 공학과 22학번
-- 정보처리 기능사 자격증 취득중 (현 필기 합격)
-- OCJP, SQLD, 네트워크 관리사, 정보처리 기사 자격증 준비중
-- 前 LeptonSoft Programmer 정규직
-- Instagram @tae_o31
+	<p>정보처리 기능사 자격증 취득중 (현 필기 합격)</p>
+	<p>OCJP, SQLD, 네트워크 관리사, 정보처리 기사 자격증 준비중</p>
+	<p>前 LeptonSoft Programmer 정규직</p>
+	<p>Instagram @tae_o31</p>
 </div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taehyun06-Dev&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Taehyun06-Dev&show_icons=true">
+<br>
 
