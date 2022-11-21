@@ -7,4 +7,6 @@
 - 前 LeptonSoft Programmer 정규직
 - Instagram @tae_o31
 
-<!--- 작성중 !--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taehyun06-Dev&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Taehyun06-Dev&show_icons=true">
+
