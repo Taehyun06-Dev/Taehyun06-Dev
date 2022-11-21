@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Taehyun_Github!&animation=fadeIn&fontColor=9cf&fontSize=40&fontAlignY=30)
-
-
-<div align = "center"> <p> 공주대 컴퓨터 공학과 22학번 -100%</p> </div>
+<div align = "center"> 
+	<p> 공주대 컴퓨터 공학과 22학번 - 30px</p> 
+</div>
 <br>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
