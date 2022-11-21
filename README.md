@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Taehyun's%20Github!&fontSize=90&animation=fadeIn" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Taehyun's%20Github!&fontSize=90&animation=fadeIn" />
 </div>
 <div align = "center"> 
 	<p> 공주대 컴퓨터 공학과 22학번 - 30px</p> 
