@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%World!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Taehyun_World!&animation=fadeIn&fontColor=ffff)
 
 - 공주대 컴퓨터 공학과 22학번
 - JAVA 전문, javascript, c, linux, python ....
