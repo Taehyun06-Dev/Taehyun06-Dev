@@ -3,7 +3,7 @@
 - 공주대 컴퓨터 공학과 22학번
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/#3776AB-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 - 정보처리 기능사 자격증 취득중 (현 필기 합격)
