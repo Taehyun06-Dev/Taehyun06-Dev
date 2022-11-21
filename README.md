@@ -1,6 +1,6 @@
-<div align = "center">
+
 	![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Taehyun_Github!&animation=fadeIn&fontColor=9cf&fontSize=40&fontAlignY=30)
-</div>
+
 
 <div align = "center"> #공주대 컴퓨터 공학과 22학번 </div>
 <br>
