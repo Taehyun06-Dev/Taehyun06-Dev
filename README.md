@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Taehyun's%20Github!&fontSize=80&animation=fadeIn" />
 </div>
 <div align = "center"> 
-	<h3> 공주대 컴퓨터 공학과 22학번 </h3> 
+	<h3> 🎓공주대 컴퓨터 공학과 22학번 </h3> 
 </div>
 <br>
 <div align="center">
