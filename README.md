@@ -3,8 +3,7 @@
 </div>
 <div align = "center"> 
 	<h3> 🎓공주대 컴퓨터 공학과 22학번 </h3> 
-</div>
-<br>
+</div><br>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-007396?style=flat&logo=HTML5&logoColor=white" />
