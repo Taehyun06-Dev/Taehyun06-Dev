@@ -31,7 +31,7 @@
 </div>
 <br>
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taehyun06-Dev&layout=compact&theme=synthwave"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taehyun06-Dev&layout=compact&theme=merko"><br><br>
 </div>
 <br>
 <div align=center>
